@@ -1,0 +1,185 @@
+Constants needed
+
+GaAs material parameters:
+
+Bandgap energy at 300K: E_gE 
+g
+​	
+  = 1.42 eV
+
+Electron affinity: \chi_{si}χ 
+si
+​	
+  = 4.07V
+
+Relative permittivity \epsilon_s/\epsilon_oϵ 
+s
+​	
+ /ϵ 
+o
+​	
+  = 12.9
+
+Effective mass: Electron m_em 
+e
+​	
+  = 0.067m_om 
+o
+​	
+  Hole m_om 
+o
+​	
+  = 0.47m_om 
+o
+​	
+ 
+
+Mobility: Electron \mu_n = 8500 cm^2/Vsμ 
+n
+​	
+ =8500cm 
+2
+ /Vs Hole \mu_h = 400 cm^2/Vsμ 
+h
+​	
+ =400cm 
+2
+ /Vs
+
+Diffusion coefficient: Electron D_n = 200 cm^2/sD 
+n
+​	
+ =200cm 
+2
+ /s Hole D_p = 10 cm^2/sD 
+p
+​	
+ =10cm 
+2
+ /s
+
+GaP material parameters:
+
+Bandgap energy at 300K: E_gE 
+g
+​	
+  = 2.3 eV
+
+Effective mass: Electron m_em 
+e
+​	
+  = 0.12m_om 
+o
+​	
+  Hole m_om 
+o
+​	
+  = 0.5m_om 
+o
+​	
+ 
+
+Si material parameters:
+
+Bandgap energy at 300K: E_gE 
+g
+​	
+  = 1.1 eV
+
+Effective mass: Electron m_em 
+e
+​	
+  = m_om 
+o
+​	
+  Hole m_om 
+o
+​	
+  = 0.7m_om 
+o
+​	
+ 
+
+Physical constants:
+
+Permittivity of vacuum \epsilon_o = 8.85 x 10^{-14} F/cmϵ 
+o
+​	
+ =8.85x10 
+−14
+ F/cm
+
+Permeability of free space \mu_o = 4\pi x 10^{-7} H/mμ 
+o
+​	
+ =4πx10 
+−7
+ H/m
+
+Planck's constant h = 6.63x10^{-34} J-sh=6.63x10 
+−34
+ J−s
+
+Speed of light in vacuum c = 3 x 10^8 m/sc=3x10 
+8
+ m/s
+
+Electronic charge q = 1.6 x 10^{-19} Cq=1.6x10 
+−19
+ C
+
+Electron rest mass m_o = 9.11 x 10^{-31} kgm 
+o
+​	
+ =9.11x10 
+−31
+ kg
+
+Boltzmann constant k_b = 1.38 x 10^{-23} J/Kk 
+b
+​	
+ =1.38x10 
+−23
+ J/K
+
+Thermal energy at 300K k_bT = 0.0259 eVk 
+b
+​	
+ T=0.0259eV
+
+Energy conversion 1 eV = 1.6 x 10^{-19} J1eV=1.6x10 
+−19
+ J
+
+Integral tables
+
+\int_0^{\infty} x^{0.5}*exp(-nx) = \frac{1}{2n}*(\frac{\pi}{n})^{0.5}∫ 
+0
+∞
+​	
+ x 
+0.5
+ ∗exp(−nx)= 
+2n
+1
+​	
+ ∗( 
+n
+π
+​	
+ ) 
+0.5
+ 
+
+\int_0^{\infty} x^{-0.5}*exp(-nx) = (\frac{\pi}{n})^{0.5}∫ 
+0
+∞
+​	
+ x 
+−0.5
+ ∗exp(−nx)=( 
+n
+π
+​	
+ ) 
+0.5
