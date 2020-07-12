@@ -1,6 +1,6 @@
 Constants needed
 
-GaAs material parameters:
+GaAs material parameters :
 
 Bandgap energy at 300K: E_gE 
 g
