@@ -1,0 +1,31 @@
+1.Question 1
+Spontaneous emission is an intrinsic property of an atom.
+Ans:False
+2.Question 2
+Why is photon density of modes different for 2D, 1D and 0D structures?
+Ans:Number of allowed states as a function of energy is a function of confinement
+3.Question 3
+What is the definition of \betaβ, the spontaneous emission enhancement factor?
+Ans:Fraction of total spontaneous emission that is coupled into lasing cavity mode
+4.Question 4
+A thresholdless laser does not have a threshold.
+Ans:False
+5.Question 5
+Why are whispering gallery mode lasers attractive?
+Ans:All of the above(Small mode volume
+		     Low threshold
+	             Nonlinear effects can be enhanced with high intensities)
+6.Question 6
+What are main differences between photonic crystals and crystalline semiconductors in respect to calculating bandstructure for photons and electrons/holes respectively?
+Ans:(a) and (b) are correct(Different occupation probabilities for electron/holes and photons
+			    Photons do not have mass whereas electrons do)
+
+
+
+
+
+
+
+
+
+
