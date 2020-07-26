@@ -12,7 +12,7 @@ A thresholdless laser does not have a threshold.
 Ans:False
 5.Question 5
 Why are whispering gallery mode lasers attractive?
-Ans:All of the above (Small mode volume
+Ans:All of the above(Small mode volume
 		     Low threshold
 	             Nonlinear effects can be enhanced with high intensities)
 6.Question 6
