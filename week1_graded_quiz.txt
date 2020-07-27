@@ -5,7 +5,7 @@ Ans:Intersubband transitions in layered structures
 Why is it hard to generate short wavelengths from quantum cascade lasers?
 Ans:Losses of carriers due to thermionic emission
 3.Question 3
-Ans :1/E
+Ans:1/E
 4.Question 4
 What is the advantage of a quantum dot laser?
 Ans:All the above(They have higher gain than quantum well or bulk lasers,
