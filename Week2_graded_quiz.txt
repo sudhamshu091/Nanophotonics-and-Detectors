@@ -7,7 +7,7 @@ Ans:Number of allowed states as a function of energy is a function of confinemen
 3.Question 3
 What is the definition of \betaβ, the spontaneous emission enhancement factor?
 Ans:Fraction of total spontaneous emission that is coupled into lasing cavity mode
-4.Question 4
+4. Question 4
 A thresholdless laser does not have a threshold.
 Ans:False
 5.Question 5
