@@ -1,6 +1,6 @@
 1.Question 1
 Spontaneous emission is an intrinsic property of an atom.
-Ans:False
+Ans: False
 2.Question 2
 Why is photon density of modes different for 2D, 1D and 0D structures ?
 Ans:Number of allowed states as a function of energy is a function of confinement
